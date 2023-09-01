@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 60%;
+  align: center;
+}
+#main_menu {
+  list-style: none;
+  text-align: center;
+}
+#main_menu li {
+  display: inline-block;
+  margin: 0 5px 10px;
+}
+#main_menu a {
+  color: grey;
+  text-decoration: none;
+}
+section {
+  background-color: lightyellow;
+}
+div {
+  font-size: 20px;
+  padding: 40px;
+  width: 30%;
+}
+div img {
+  max-width: 20%;
+}
+footer img {
+  display: block;
+  max-width: 20%;
+  margin: 0 auto;
+}
+footer {
+  padding: 30px;
+  text-align: center;
+}
+footer p {
+  background-color: whitesmoke;
+  font-family: cursive;
+  font-size: 40px;
+  color: gray;
+}
